@@ -8,7 +8,7 @@ Useful for all that are [#movingtogitlab](https://twitter.com/hashtag/movingtogi
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/GitlabAutoPullMirroring.svg)](https://github.com/SeppPenner/GitlabAutoPullMirroring/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/GitlabAutoPullMirroring.svg)](https://github.com/SeppPenner/GitlabAutoPullMirroring/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/GitlabAutoPullMirroring.svg)](https://github.com/SeppPenner/GitlabAutoPullMirroring/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/GitlabAutoPullMirroring/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/GitlabAutoPullMirroring/master/License.txt)
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/GitlabAutoPullMirroring/badge.svg)](https://snyk.io/test/github/SeppPenner/GitlabAutoPullMirroring) 
 
 # Steps to use this script:
