@@ -2,7 +2,7 @@ GitlabAutoPullMirroring
 ====================================
 
 GitlabAutoPullMirroring is a script to update all Gitlab repositories to be mirrored from Github (Pull from Github, push is currently not possible: https://gitlab.com/gitlab-org/gitlab-ee/issues/7599).
-Useful for all that are [#movingtogitlab](https://twitter.com/hashtag/movingtogitlab?lang=en). The script was written and tested in Python 3.7.4.
+Useful for all that are [#movingtogitlab](https://twitter.com/hashtag/movingtogitlab?lang=en). The script was written and tested in Python 3.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/dwyek279jpfod10i?svg=true)](https://ci.appveyor.com/project/SeppPenner/gitlabautopullmirroring)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/GitlabAutoPullMirroring.svg)](https://github.com/SeppPenner/GitlabAutoPullMirroring/issues)
@@ -53,5 +53,4 @@ or
 Change history
 --------------
 
-* **Version 1.0.0.1 (2019-09-29)** : Updated python version, updated requirements.
-* **Version 1.0.0.0 (2018-09-30)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/GitlabAutoPullMirroring/blob/master/Changelog.md).
